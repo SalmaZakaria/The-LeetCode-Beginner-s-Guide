@@ -4,5 +4,5 @@ This Repository Contains my submission to different Problems on LeetCode in diff
 
 Problem | Solution | Difficulty	
 :--------------------------------------------:|:--------------------------:|:--------------------------:
-[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c++](Medium/AddTwoNumbers.cpp) | Medium
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [c++](Easy/AddTwoNumbers.cpp) | Easy
 
